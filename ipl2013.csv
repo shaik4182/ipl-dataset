@@ -1,0 +1,77 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+1,2013,Kolkata,04-03-2013,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,SP Narine,Eden Gardens,S Ravi,SJA Taufel
+2,2013,Bangalore,04-04-2013,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,2,0,CH Gayle,M Chinnaswamy Stadium,VA Kulkarni,C Shamshuddin
+3,2013,Hyderabad,04-05-2013,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,0,Sunrisers Hyderabad,22,0,A Mishra,"Rajiv Gandhi International Stadium, Uppal",S Ravi,SJA Taufel
+4,2013,Delhi,04-06-2013,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,0,Rajasthan Royals,5,0,R Dravid,Feroz Shah Kotla,S Das,C Shamshuddin
+5,2013,Chennai,04-06-2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,9,0,KA Pollard,"MA Chidambaram Stadium, Chepauk",M Erasmus,VA Kulkarni
+6,2013,Pune,04-07-2013,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,0,Kings XI Punjab,0,8,M Vohra,Subrata Roy Sahara Stadium,S Asnani,SJA Taufel
+7,2013,Hyderabad,04-07-2013,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Sunrisers Hyderabad,0,0,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",AK Chowdhary,S Ravi
+8,2013,Jaipur,04-08-2013,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,19,0,SK Trivedi,Sawai Mansingh Stadium,Aleem Dar,S Das
+9,2013,Mumbai,04-09-2013,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,0,Mumbai Indians,44,0,KD Karthik,Wankhede Stadium,M Erasmus,VA Kulkarni
+10,2013,Chandigarh,04-10-2013,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,10,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",Aleem Dar,C Shamshuddin
+11,2013,Bangalore,04-11-2013,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,CH Gayle,M Chinnaswamy Stadium,Asad Rauf,AK Chowdhary
+12,2013,Pune,04-11-2013,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,0,Pune Warriors,0,7,AJ Finch,Subrata Roy Sahara Stadium,M Erasmus,K Srinath
+13,2013,Delhi,04-12-2013,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,0,Sunrisers Hyderabad,0,3,A Mishra,Feroz Shah Kotla,Aleem Dar,Subroto Das
+14,2013,Mumbai,4/13/2013,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,0,Mumbai Indians,41,0,RG Sharma,Wankhede Stadium,S Ravi,SJA Taufel
+15,2013,Chennai,4/13/2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,RA Jadeja,"MA Chidambaram Stadium, Chepauk",Asad Rauf,AK Chowdhary
+16,2013,Kolkata,4/14/2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,48,0,G Gambhir,Eden Gardens,M Erasmus,VA Kulkarni
+17,2013,Jaipur,4/14/2013,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,JP Faulkner,Sawai Mansingh Stadium,Aleem Dar,C Shamshuddin
+18,2013,Chennai,4/15/2013,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,0,Pune Warriors,24,0,SPD Smith,"MA Chidambaram Stadium, Chepauk",Asad Rauf,AK Chaudhary
+19,2013,Chandigarh,4/16/2013,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kings XI Punjab,4,0,MS Gony,"Punjab Cricket Association Stadium, Mohali",CK Nandan,SJA Taufel
+20,2013,Bangalore,4/16/2013,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,0,0,V Kohli,M Chinnaswamy Stadium,M Erasmus,VA Kulkarni
+21,2013,Pune,4/17/2013,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,0,Sunrisers Hyderabad,11,0,A Mishra,Subrata Roy Sahara Stadium,Asad Rauf,AK Chaudhary
+22,2013,Jaipur,4/17/2013,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Rajasthan Royals,87,0,AM Rahane,Sawai Mansingh Stadium,Aleem Dar,C Shamshuddin
+23,2013,Delhi,4/18/2013,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,0,Chennai Super Kings,86,0,MEK Hussey,Feroz Shah Kotla,M Erasmus,VA Kulkarni
+24,2013,Hyderabad,4/19/2013,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,0,Sunrisers Hyderabad,0,5,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",HDPK Dharmasena,CK Nandan
+25,2013,Kolkata,4/20/2013,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,0,4,RA Jadeja,Eden Gardens,Asad Rauf,AK Chaudhary
+26,2013,Bangalore,4/20/2013,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,R Vinay Kumar,M Chinnaswamy Stadium,Aleem Dar,C Shamshuddin
+27,2013,Delhi,4/21/2013,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,0,Delhi Daredevils,0,9,V Sehwag,Feroz Shah Kotla,HDPK Dharmasena,S Ravi
+28,2013,Chandigarh,4/21/2013,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,7,DA Miller,"Punjab Cricket Association Stadium, Mohali",M Erasmus,K Srinath
+29,2013,Chennai,4/22/2013,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Chennai Super Kings,0,5,MEK Hussey,"MA Chidambaram Stadium, Chepauk",S Asnani,AK Chaudhary
+30,2013,Bangalore,4/23/2013,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,0,Royal Challengers Bangalore,130,0,CH Gayle,M Chinnaswamy Stadium,Aleem Dar,C Shamshuddin
+31,2013,Dharamsala,5/16/2013,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kings XI Punjab,7,0,DA Miller,Himachal Pradesh Cricket Association Stadium,HDPK Dharmasena,S Ravi
+32,2013,Kolkata,4/24/2013,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,0,5,DR Smith,Eden Gardens,HDPK Dharmasena,S Ravi
+33,2013,Chennai,4/25/2013,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,0,Chennai Super Kings,0,5,MS Dhoni,"MA Chidambaram Stadium, Chepauk",Aleem Dar,S Das
+34,2013,Kolkata,4/26/2013,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,Kolkata Knight Riders,0,6,JH Kallis,Eden Gardens,CK Nandan,S Ravi
+35,2013,Jaipur,4/27/2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,0,8,JP Faulkner,Sawai Mansingh Stadium,VA Kulkarni,K Srinath
+36,2013,Mumbai,4/27/2013,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Mumbai Indians,58,0,DR Smith,Wankhede Stadium,Asad Rauf,S Asnani
+37,2013,Chennai,4/28/2013,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,14,0,MEK Hussey,"MA Chidambaram Stadium, Chepauk",Aleem Dar,SJA Taufel
+38,2013,Raipur,4/28/2013,Delhi Daredevils,Pune Warriors,Pune Warriors,field,normal,0,Delhi Daredevils,15,0,DA Warner,Shaheed Veer Narayan Singh International Stadium,CK Nandan,S Ravi
+39,2013,Jaipur,4/29/2013,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,SV Samson,Sawai Mansingh Stadium,M Erasmus,K Srinath
+40,2013,Mumbai,4/29/2013,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,0,Mumbai Indians,4,0,RG Sharma,Wankhede Stadium,Asad Rauf,AK Chaudhary
+41,2013,Pune,4/30/2013,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,0,Chennai Super Kings,37,0,MS Dhoni,Subrata Roy Sahara Stadium,S Das,SJA Taufel
+42,2013,Hyderabad,05-01-2013,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad,0,7,I Sharma,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,S Asnani
+43,2013,Raipur,05-01-2013,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,0,Delhi Daredevils,0,7,DA Warner,Shaheed Veer Narayan Singh International Stadium,HDPK Dharmasena,CK Nandan
+44,2013,Chennai,05-02-2013,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,Chennai Super Kings,15,0,SK Raina,"MA Chidambaram Stadium, Chepauk",M Erasmus,VA Kulkarni
+45,2013,Pune,05-02-2013,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,17,0,AB de Villiers,Subrata Roy Sahara Stadium,Aleem Dar,C Shamshuddin
+46,2013,Kolkata,05-03-2013,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,0,8,YK Pathan,Eden Gardens,HDPK Dharmasena,CK Nandan
+47,2013,Hyderabad,05-04-2013,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,0,Sunrisers Hyderabad,0,6,DJG Sammy,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,S Asnani
+48,2013,Bangalore,5/14/2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,7,AC Gilchrist,M Chinnaswamy Stadium,HDPK Dharmasena,S Ravi
+49,2013,Mumbai,05-05-2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,60,0,MG Johnson,Wankhede Stadium,HDPK Dharmasena,CK Nandan
+50,2013,Jaipur,05-05-2013,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,0,Rajasthan Royals,0,5,AM Rahane,Sawai Mansingh Stadium,C Shamshuddin,RJ Tucker
+51,2013,Bangalore,04-09-2013,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,7,V Kohli,M Chinnaswamy Stadium,S Ravi,SJA Taufel
+54,2013,Jaipur,05-07-2013,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,0,Rajasthan Royals,0,9,AM Rahane,Sawai Mansingh Stadium,Aleem Dar,RJ Tucker
+55,2013,Mumbai,05-07-2013,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Mumbai Indians,65,0,SR Tendulkar,Wankhede Stadium,HDPK Dharmasena,S Ravi
+56,2013,Hyderabad,05-08-2013,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Chennai Super Kings,77,0,SK Raina,"Rajiv Gandhi International Stadium, Uppal",S Das,NJ Llong
+57,2013,Chandigarh,05-09-2013,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,KK Cooper,"Punjab Cricket Association Stadium, Mohali",HDPK Dharmasena,S Ravi
+58,2013,Pune,05-09-2013,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,46,0,G Gambhir,Subrata Roy Sahara Stadium,Asad Rauf,S Asnani
+59,2013,Delhi,05-10-2013,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Royal Challengers Bangalore,4,0,JD Unadkat,Feroz Shah Kotla,NJ Llong,K Srinath
+60,2013,Pune,05-11-2013,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,0,Mumbai Indians,0,5,MG Johnson,Subrata Roy Sahara Stadium,Asad Rauf,AK Chaudhary
+61,2013,Chandigarh,05-11-2013,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,30,0,PA Patel,"Punjab Cricket Association Stadium, Mohali",S Das,RJ Tucker
+62,2013,Ranchi,05-12-2013,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,JH Kallis,JSCA International Stadium Complex,NJ Llong,K Srinath
+63,2013,Jaipur,05-12-2013,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,SR Watson,Sawai Mansingh Stadium,HDPK Dharmasena,CK Nandan
+64,2013,Delhi,4/23/2013,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,5,Harmeet Singh,Feroz Shah Kotla,VA Kulkarni,K Srinath
+65,2013,Mumbai,5/13/2013,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,0,Mumbai Indians,0,7,KA Pollard,Wankhede Stadium,AK Chaudhary,SJA Taufel
+66,2013,Ranchi,5/15/2013,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Pune Warriors,7,0,MK Pandey,JSCA International Stadium Complex,NJ Llong,K Srinath
+67,2013,Chennai,5/14/2013,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,0,Chennai Super Kings,33,0,MS Dhoni,"MA Chidambaram Stadium, Chepauk",C Shamshuddin,RJ Tucker
+68,2013,Mumbai,5/15/2013,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Mumbai Indians,14,0,AP Tare,Wankhede Stadium,Asad Rauf,S Asnani
+69,2013,Chandigarh,05-06-2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,DA Miller,"Punjab Cricket Association Stadium, Mohali",VA Kulkarni,NJ Llong
+70,2013,Hyderabad,5/17/2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,23,0,A Mishra,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,AK Chaudhary
+71,2013,Dharamsala,5/18/2013,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Kings XI Punjab,50,0,Azhar Mahmood,Himachal Pradesh Cricket Association Stadium,HDPK Dharmasena,CK Nandan
+72,2013,Pune,5/19/2013,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,0,Pune Warriors,38,0,LJ Wright,Subrata Roy Sahara Stadium,NJ Llong,SJA Taufel
+73,2013,Bangalore,5/18/2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,24,0,V Kohli,M Chinnaswamy Stadium,C Shamshuddin,RJ Tucker
+74,2013,Hyderabad,5/19/2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Sunrisers Hyderabad,0,5,PA Patel,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,S Asnani
+75,2013,Delhi,5/21/2013,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Chennai Super Kings,48,0,MEK Hussey,Feroz Shah Kotla,NJ Llong,RJ Tucker
+76,2013,Delhi,5/22/2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,0,4,BJ Hodge,Feroz Shah Kotla,S Ravi,RJ Tucker
+77,2013,Kolkata,5/24/2013,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Mumbai Indians,0,4,Harbhajan Singh,Eden Gardens,C Shamshuddin,SJA Taufel
+78,2013,Kolkata,5/26/2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,23,0,KA Pollard,Eden Gardens,HDPK Dharmasena,SJA Taufel
